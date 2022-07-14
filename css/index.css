@@ -179,9 +179,8 @@ body {
 
 .container .main .hotel{
     margin-bottom: 10px;
-    margin: 10px 10px;
     display: flex;
-    width: 95%;
+    width: 100%;
     
     justify-content: baseline;
     height: 100px;
